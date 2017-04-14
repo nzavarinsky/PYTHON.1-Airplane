@@ -31,14 +31,3 @@ class Airplane:
         print("Name : ", plane.resetName, "\nType : ", plane.resetType)
         print("Max speed is : ", plane.resetSpeed, "km/h")
         print("Number of Passengers: ", plane.resetSeats,"\nWeight : ", plane.resetWeight, "kg")
-
-
-
-
-
-
-
-
-
-
-
